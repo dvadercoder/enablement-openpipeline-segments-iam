@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://CODESPACE_NAME_PLACEHOLDER-ARGOCD_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://probable-engine-644x6v56jv9hr95g-ARGOCD_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
